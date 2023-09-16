@@ -3,4 +3,5 @@
     color: blue;
     padding-left: 15vh;
     margin: auto;
+    display: flex;
 }
